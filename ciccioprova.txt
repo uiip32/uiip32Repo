@@ -1,6 +1,4 @@
 prova
-<<<<<<< HEAD
 asda
-=======
 fregato!!!! Ahahaha!
->>>>>>> ea3e286f60cef628eedb93df22f5fa49549fc2b8
+
